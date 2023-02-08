@@ -1,7 +1,6 @@
 import type { ComponentType } from "react"
 import { motion, useSpring } from "framer-motion"
 import React, { useState, useRef, useEffect } from "react"
-import { addPropertyControls, ControlType } from "framer"
 
 // Learn more: https://www.framer.com/docs/guides/overrides/
 
